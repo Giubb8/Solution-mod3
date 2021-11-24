@@ -1,0 +1,65 @@
+ section{
+    height: 1000px;
+    background-color:#FCFAF5;
+    
+
+}
+.row{
+    margin: 15px;
+    border: 1px solid;
+    border-color:  black;
+    overflow: auto;
+
+}
+section span{
+    font-size: 269%;
+    
+}
+body{
+    font-family: 'Petemoss', cursive ;
+}
+#CompName{
+    font-size: 315%;
+    font-weight: 115;
+    color: #f0f1f0;    
+
+}
+.itred{
+    color: #cd2a3e;
+    font-size: x-large;
+    border: 1px solid black;
+}
+.itgreen{
+    color: #009069;    
+    font-size: x-large;
+    border: 1px solid black;
+    border-bottom: 0px;
+
+
+}
+.itwhite{
+    color: #ffffff;    
+    font-size: x-large;
+    border: 1px solid black;
+    border-bottom: 0px;
+
+
+}
+#header-nav {
+    background-color:rgba(126, 126, 101, 0.514);
+    border-radius: 0;
+    border: 0;
+  }
+
+  .navbar-toggle{
+      background-color:  #f0f1f0;
+  }
+
+  li span:hover{
+      background-color: rgba(235, 243, 126, 0.555);
+  }
+
+#course{
+    color: #009069;
+    font-size: xx-large;
+}
